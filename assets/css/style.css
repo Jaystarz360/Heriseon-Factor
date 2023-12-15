@@ -87,12 +87,12 @@ p {
     width: 20%;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost{
+.benefit-lead, .benefit-brand, .benefit-cost {
     color: #ffffff;
     margin-bottom: 32px;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.benefit-lead h3, .benefit-cost h3, .benefit-brand h3{
     margin-bottom: 10px;
     text-align: center;
 }
@@ -112,7 +112,7 @@ p {
     padding: 50px;
 }
 
-.search-engine-optimization img, .online-reputation-management img .social-media-marketing img{
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img{
     max-height: 200px;
 }
 
